@@ -1,3 +1,3 @@
 # jobsheet2
 
-Hello Github. Ini adalah repository pertama saya
+Hello Github. Ini adalah repository pertama saya.
