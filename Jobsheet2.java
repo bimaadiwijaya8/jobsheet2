@@ -1,4 +1,4 @@
-public class MyFirstJava {
+public class Jobsheet2 {
     public static void main(String[] args) {
     //     String nama = "Bima Adiwijaya";
     //     int umur = 19;
